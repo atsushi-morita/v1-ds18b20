@@ -1,0 +1,21 @@
+{
+    "name": "v1 ds18b20",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "ds18b20": "github:mengbishu/pxt-ds18b20#bfdba4c4780fe8e819ed2de439f78d6d30f3ada9"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
